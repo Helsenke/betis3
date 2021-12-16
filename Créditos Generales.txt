@@ -1,0 +1,138 @@
+Tiles:
+
+FM
+PandaInDaGame
+The-Red-Ex
+Thurpok
+WilsonScarloxy
+Flurmimon
+PeekyChew
+Warox1994
+Seiyouh
+PokemonEclipse
+Pkmn Dawn
+TallysX
+aveontrainer
+Slaqueen
+ditto209
+King Tapir
+chimcharsfireworkd
+Phyromatical
+MagicScarf
+LTSeera
+Erma96
+NSora-96
+BoOmxBiG
+cleystation
+DannyPhantump15
+Marecage
+ThunderDove
+PkmnAlexandrite
+MrGrossi
+Madre de MrGrossi
+DonLawride
+ChaoticCherryCake
+Kyle-Dove
+Newtiteuf
+Thegreatblaid
+Tratas
+Pano26
+PokemonTilesetStudio
+Akizakura16
+Danpha_re
+Icari
+Magma-Ryunoid
+BE_Infinity
+Mllessentials
+ClaraDragon
+Cuddlesthefatcat
+Gallanty
+07harris
+Ekat99
+Heartlessdragoon
+Pablus94
+
+Sprites:
+
+Dhanpa
+Wergan
+Kyle-Dove
+Beliot419
+Drawnamu
+Lightbulb15
+PurpleZaffre
+Frozen-Echo
+Segesi
+Kleinstudio
+Yumekua 
+PokelustCompany
+KinectedWires
+Noscium
+
+Interfaces: 
+
+FastBit
+Akizakura16
+
+Animaciones movimientos:
+
+Pira
+Pokemon Reborn
+
+Battlebacks:
+
+PhoenixOfLight92
+carchagui
+AveonTrainer
+Midnitez-REMIX
+ropigot92
+
+Windowskins:
+
+Regenesis
+
+Scripts:
+
+Mr.Gela
+Beziner
+KleinStudio
+Nyaruko 
+Pablus94
+raZ
+Nuri Yuri
+Vendily 
+Marin
+Selfish
+Alberto
+Clara
+Luka S.J.
+LackDeJurane
+Kyu
+
+Música:
+
+Parasyte
+Monster Racers
+Inazuma Eleven
+Assassination Classroom
+Akame ga Kill!
+Death Note
+Date a Live
+Bliitzit
+Qumu
+Mewmore
+Ilumiknight
+R3 Music Box
+
+Testers:
+
+@HikawaSS
+@patxyroyuela
+@floren22853464
+@PKMN_Hematita
+@GamerArcadia1
+@Shangdu4
+
+Agredecimientos a: FeRnan
+Creado por: Helsinki
+
